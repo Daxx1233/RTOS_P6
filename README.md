@@ -1,7 +1,9 @@
 # Praktikum RTOS - SEMESTER 5 (3 Teknik Komputer A)
 - Triyas Rahmadiyanti (3222600001)
 - Duta Fithra Qolby (3222600003)
-# EXERCISE 6 - 
+# Exercise 6 – Demonstrate a simple way to eliminate
+resource contention - suspending the scheduler.
+
 ## Deskripsi Projek
 Proyek ini adalah implementasi sistem mikrokontroler berbasis STM32 yang menggunakan CMSIS-RTOS (Real-Time Operating System) untuk mengelola beberapa tugas secara paralel. 
 
